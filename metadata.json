@@ -1,0 +1,6 @@
+{
+  "name": "Talent Trail Early Learning Corp",
+  "description": "Premium childcare and early childhood education center in White City, Saskatchewan. Designed with modern interactive elements and an AI Parent Assistant chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
